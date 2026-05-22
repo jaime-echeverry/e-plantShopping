@@ -7,7 +7,7 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/milantony05/e-plantShopping.git
+   git clone https://github.com/milantony05/e-plantShopping.git](https://github.com/jaime-echeverry/e-plantShopping.git)
    ```
 2. **Navigate to the project directory**:
    ```bash
